@@ -61,7 +61,7 @@ Tampilan pada browser
 ![Screenshot](https://github.com/heynis10/Lab3Web/blob/master/ss13.png)
 
 ## **Menambahkan Style pada Form**
-### **Agar tampilan lebih menarik, bisa ditambahkan CSS seperti berikut
+### **Agar tampilan lebih menarik, bisa ditambahkan CSS seperti berikut**
 
 ![Screenshot](https://github.com/heynis10/Lab3Web/blob/master/ss14.png)
 
